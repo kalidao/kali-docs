@@ -1,14 +1,19 @@
 module.exports = {
   title: "Kali",
-  description: `Kali docs.`,
+  description: `Kali is a optimized DAC protocol.`,
   themeConfig: {
     repo: "kalidao/kali-docs",
+    docsDir: "docs",
+    docsBranch: "main",
     editLinks: true,
-    editLinkTest: "Make a PR on GitHub to help improve this page.",
-    nav: [{ text: "Home", link: "/" }],
+    editLinkTest: "Make a PR on GitHub to help us improve this page.",
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "FAQ", link: "/faq/" },
+    ],
   },
   dest: "public",
-  sidebarDepth: 10,
+  sidebarDepth: 3,
   sidebar: "auto",
   smoothScroll: true,
 };

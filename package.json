@@ -1,0 +1,15 @@
+{
+  "name": "kali-docs",
+  "version": "1.0.0",
+  "description": "Kali docs",
+  "main": "index.js",
+  "author": "nerderlyne <shivanshityagi@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  }
+}

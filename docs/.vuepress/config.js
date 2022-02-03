@@ -1,6 +1,6 @@
 module.exports = {
   title: "Kali",
-  description: `Kali is a optimized DAC protocol.`,
+  description: `Kali is an optimized DAC protocol.`,
   themeConfig: {
     repo: "kalidao/kali-docs",
     docsDir: "docs",

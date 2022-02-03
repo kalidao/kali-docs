@@ -48,9 +48,9 @@ Kali is currently deployed to the following networks. Some networks may provide 
 
 Please note <b>all of the above decisions make impact the legal status and standing of your DAO. Please consult a lawyer in your jurisdiction prior to determining the features of your DAO.</b>
 
-### Establish your Capitalization Table</b> - Enter the Founder’s Ethereum addresses and the number of DAO Tokens to be assigned to them upon Summoning.
+### <b>Establish your Capitalization Table</b> - Enter the Founder’s Ethereum addresses and the number of DAO Tokens to be assigned to them upon Summoning.
 
-### Determine your Legal Structure</b> 
+### <b>Determine your Legal Structure</b> 
 
 Select which legal structure you would like to summon for the DAO.
 

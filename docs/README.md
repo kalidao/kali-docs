@@ -13,7 +13,19 @@ V1 includes the following features:
 - **extension support**, including fundraising by token sale or 'tribute', whitelisting, and 'ragequit' 
 - **treasury support**, including ETH, ERC-20, NFT and ERC-1155
 
-## Deployments
+## Legal Support
+
+Kali was incubated by [LexDAO](https://www.lexdao.coop/) and [Seed Club](https://seedclub.xyz/) to solve the legal pain points of web3 founders and funds.
+
+It includes a legal drafting tool for LLC, Investment Club and UNA governing docs, and Kali users can instantly deploy an LLC by minting an NFT under the [master operating agreement of KaliCo Ricardian LLC](https://gateway.pinata.cloud/ipfs/QmdHFNxtecmCNcTscWJqnA4AiASyk3SHCgKamugLHqR23i), a Delaware Series LLC. For more information on this formation system, review the sister LexDAO research project, [Ricardian LLC](https://ricardian.gitbook.io/ricardian-llc/).
+
+For formation assistance for standalone LLCs and questions on DAO legal setup and compliance, Kali integrates with the [LexDAO community of lawyers and engineers](https://www.lexdao.coop/#/directory).
+
+### KaliCo Ricardian LLC
+
+![image](https://user-images.githubusercontent.com/92001561/152853748-ef78c1f7-5ed2-4f7e-83da-e6ea03eb0487.png)
+
+## DAO Deployments
 
 A running list of contracts deployed on Ethereum, Arbitrum, Polygon and Rinkeby (testnet) are catalogued here. The verified KaliDAO factory contracts are:
 

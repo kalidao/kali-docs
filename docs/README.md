@@ -1,6 +1,6 @@
 # Kali
 
-Kali is an application to launch flexible DAOs with legal support. It allows founders, funds and communities to tokenize membership, build on-chain governance, and truly enforce their commitments with code. It is end-to-end, so users don't need to know anything about coding, deploying contracts, or run their own servers or nodes to manage proposals and voting. The Kali codebase is inspired by the [Compound](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and [Moloch](https://molochdao.gitbook.io/handbook/introduction/wtf-is-moloch) frameworks, prioritizing lean, reasonably optimized contracts. The application fills in legal gaps, as well, by allowing users to draft and wrap their DAOs and token launches with battle-tested legal agreements, such as LLC structures for investment clubs and companies.
+Kali is an application to launch DAO smart contracts and form companies. It allows founders, funds and communities to tokenize membership, build on-chain governance, and truly enforce their commitments with code. It is end-to-end, so users don't need to know anything about coding, contracts, deployment, or run their own servers or nodes to manage proposals and voting. The Kali codebase is inspired by the [Compound](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and [Moloch](https://molochdao.gitbook.io/handbook/introduction/wtf-is-moloch) frameworks, prioritizing lean, reasonably optimized contracts. The application fills in legal gaps, as well, by allowing users to draft and wrap their DAOs and token launches with battle-tested legal agreements, such as LLC structures for investment clubs and companies.
 
 ## Features
 
@@ -29,7 +29,7 @@ For formation assistance for standalone LLCs and questions on DAO legal setup an
 
 ## DAO Deployments
 
-A running list of contracts deployed on Ethereum, Arbitrum, Polygon and Rinkeby (testnet) are catalogued here. The verified KaliDAO factory contracts are:
+A running list of contracts deployed on Ethereum, Arbitrum, Polygon and Rinkeby (testnet) are catalogued [here](https://github.com/kalidao/kali-ui/blob/main/constants/addresses.js). The verified KaliDAO factory contracts are:
 
 - Ethereum: [0xA051591c52c1378bc4a34c57445D181deEF100f0](https://etherscan.io/address/0xa051591c52c1378bc4a34c57445d181deef100f0#code)
 - Arbitrum: [0x6fcc42233f909a46EB006A7bd6BfE9D94928e64a](https://arbiscan.io/address/0x6fcc42233f909a46eb006a7bd6bfe9d94928e64a#code)

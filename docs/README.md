@@ -1,6 +1,6 @@
 # Kali
 
-Kali is an application to launch DAO smart contracts and form companies. It allows founders and communities to build on-chain governance and enforce their commitments with code. It is end-to-end, so users don't need to know anything about contracts, deployment, or run their own servers or nodes to manage proposals and voting. The contracts are inspired by the [Compound](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and [Moloch](https://molochdao.gitbook.io/handbook/introduction/wtf-is-moloch) frameworks, prioritizing lean, reasonably optimized code. The application further allows users to draft and wrap their contract deployments with legal agreements, such as LLC structures for investment clubs and companies.
+Kali is an application to launch DAO smart contracts and form companies. It allows founders, funds and communities to tokenize membership, build on-chain governance, and truly enforce their commitments with code. It is end-to-end, so users don't need to know anything about coding, contracts, deployment, or run their own servers or nodes to manage proposals and voting. The Kali codebase is inspired by the [Compound](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) and [Moloch](https://molochdao.gitbook.io/handbook/introduction/wtf-is-moloch) frameworks, prioritizing lean, reasonably optimized contracts. The application fills in legal gaps, as well, by allowing users to draft and wrap their DAOs and token launches with battle-tested legal agreements, such as LLC structures for investment clubs and companies.
 
 ## Features
 
@@ -12,6 +12,8 @@ V1 includes the following features:
 - **gas-less metaTX support** for voting and token transfers
 - **extension support**, including fundraising by token sale or 'tribute', whitelisting, and 'ragequit' 
 - **treasury support**, including ETH, ERC-20, NFT and ERC-1155
+
+More extensive discussion of the Kali DAO contracts can be found in the [repo](https://github.com/kalidao/kali-contracts/blob/main/README.md). 
 
 ## Legal Support
 

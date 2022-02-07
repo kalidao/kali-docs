@@ -1,64 +1,20 @@
 # FAQ
 
-## What is Kali?
+## What is KALI?
 
-Kali is a protocol for the smooth and straightforward establishment of a DAO operating under MolochDAO/Compound style governance. With just a few decisions and clicks, users can establish a flexible and user-friendly org that has a core functionality adequate for both large and small DAOs. Uniquely, Kali has the ability to 'wrap' the established DAO in a legal wrapper under either a Wyoming or Delaware LLC (Limited Liability Company) (in alpha). Kali also provides the options of drafting a 'boilerplate' Community Code of Conduct that your DAO can then expand upon, as well as a Charter. Lastly, Kali provides the option of establishing a UNA (Unincorporated Nonprofit Association) instead of an LLC.
+KALI is an application to streamline DAO and legal structure deployments. It includes an end-to-end tokenization, voting and proposal system, as well as LLC formation and legal agreement drafting software.
 
-## What things should I be thinking about when I set up a KaliDAO?
+## What is a DAO?
 
-The more consideration as to the needs and structure of your DAO at the time of establishment, the fewer changes may be required in the future (which may reduce gas fees required to make subsequent changes to your DAO).
+A DAO is like a shared bank account, but operated in an open, transparent manner and enforced by code or “smart contracts”.
 
-The most important considerations to make (other than your name and symbol!) are:
-- Who are the founders?;
-- How many tokens are each of those founders initially receiving?;
-- What voting procedures should the DAO operate by?; and
-- Do you want to establish the DAO with a legal wrapper (more on this later)? <b>KaliDAO and LexDAO recommend that you discuss this decision with a legal and tax expert prior to establishing the DAO</b>.
+## What is a Smart Contract?
 
-### Setting up your DAO:
+A smart contract is code on a blockchain that will run exactly as programmed. They can operate assets and for DAOs, enforce the outcomes of voting, such as membership inclusion, exclusion and payments. Smart contracts deployed on KALI will survive the platform, don’t depend on KALI developers, and will persist and run as expected as long as blockchains continue to run. Smart contracts therefore give KALI users true ownership of their organizations.
 
-<b>Step 1</b> - Where to deploy your DAO?
+## Why do DAOs need Legal Structure?
 
-Kali is currently deployed to the following networks. Some networks may provide security, speed, and fee advantages. Kali DAOs are currently deployable on:
--Ethereum Mainnet
--Arbitrum One
--Polygon
--Rinkeby (Testnet)
+DAOs are managed by people, and as they typically involve the pooling and use of assets, can create traditional legal liabilities for all involved parties. Without a formal legal structure, jurisdictions will typically treat DAOs as unincorporated general partnerships, giving members joint and several liability for claims made against the DAO. This effectively means that a single member could be held responsible for the entire sum of damages in the event of unfavourable litigation. Limiting the liability of DAOs through light-weight legal structures has been therefore seen as a common sense solution for DAOs to scale and operate with “IRL” concerns, such as hiring and making investments. 
 
-<b>Step 2</b> - Choose your DAO's name and Symbol.
 
-<b>Step 3</b> - Choose a DAO governance structure from Kali pre-set templates or customize your governance settings.
 
-<u>KALI Templates</u>
-
-<i>Social</i> - A DAO established for social purposes - Anyone can join by paying the established tribute, a smaller quorum is required to pass proposals to keep things moving and fun!
-
-<i>Investment Club</i> - A DAO established for collective investing (including ERC-721 and ERC-1155 NFTs) - Upon summoning, the DAO will immediately commence a 30 day ETH crowdsale at a price of 200 shares per ETH.
-
-<i>Services Company</i> – A DAO established for providing services and receiving on-chain payments. Smaller quorum required to pass proposals and a shortened voting period emphasis smooth, quick operation where fewer ‘large scale’ investment decisions are required.
-
-<i>Custom</i> – Establishing a custom DAO allows the Summoner to determine the required Voting Period, Quorum, Supermajority, and Share Transferability.
-
-<b>Voting Period</b> - How much time a proposal can be voted on by members before being ratified or rejected by the DAO. 
-
-<b>Quorum</b> - What percentage of DAO votes (out of total outstanding tokens) need to participate in a given proposal in order for it to be passed (if majority votes in favour). Proposals that don’t achieve a minimum quorum will fail, even if the final vote is in favour of the proposal.
-
-<b>Supermajority</b> - What percentage of DAO votes (out of total outstanding tokens) need to vote in favour or against a proposal in order for it to be approved or rejected prior to the end of the voting period. This allows the DAO to expedite the approval or rejection of ‘easy’ votes.
-
-<b>Share Transferability</b> - Determines whether DAO tokens are transferable by their holders without approval by the DAO. If shares are Transferable then DAO token holders will be able to send those token freely to other addresses. If non-transferable, then the tokens will be locked to the original founder addresses (or subsequent addresses) and will not be transferaable until a proposal making such a change is approved.
-
-Please note <b>all of the above decisions make impact the legal status and standing of your DAO. Please consult a lawyer in your jurisdiction prior to determining the features of your DAO.</b>
-
-### <b>Establish your Capitalization Table</b> 
-Enter the Founder’s Ethereum addresses and the number of DAO Tokens to be assigned to them upon Summoning.
-
-### <b>Determine your Legal Structure</b> 
-
-Select which legal structure you would like to summon for the DAO.
-
-Input the addresses for each of the founders. <b>Be sure to use the addresses from the same network upon which you are deploying the DAO (e.g. input Polygon addresses if deploying on Polygon)</b>. ENS domains (.eth) are accepted.
-
-#### <b>Limitations on Legal Advice</b>
-
-The content of this website has been prepared for informational purposes only and does not constitute legal advice. The information on this website shall not be construed as an offer to represent you, nor is it intended to create, nor shall the receipt of such information constitute, an attorney-client relationship. We hope that you will find the information informative and useful, and we would be delighted to speak with you to answer any questions you may have.
-
-<u>Kali core contributors include Shivanshi Tyagi, Jordan Teague, and Ross Campbell. It is supported by the friendly shadowy super lawyers at LexDAO (https://www.lexdao.coop/).</u>

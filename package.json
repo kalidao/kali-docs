@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "vuepress": "^2.0.0-beta.35"
+  },
+  "dependencies": {
+    "webpack": "^5.0.0"
   }
 }

@@ -33,10 +33,10 @@ A running list of contracts deployed on Ethereum, Arbitrum, Polygon and Rinkeby 
 
 - Ethereum: [0x8bD48C45d40724E8424C3aAa4097257A38A98024](https://etherscan.io/address/0x8bD48C45d40724E8424C3aAa4097257A38A98024#code)
 - Arbitrum: [0x045cbcBA76a7EcF82d0f6B5DCc0881B3C12E37d0](https://arbiscan.io/address/0x045cbcBA76a7EcF82d0f6B5DCc0881B3C12E37d0#code)
-- Optimism: [0xe8E08113Dc0f2B6392A4bD14d7F1d9AA6E89e1e3](https://arbiscan.io/address/0xe8E08113Dc0f2B6392A4bD14d7F1d9AA6E89e1e3#code)
+- Optimism: [0xe8E08113Dc0f2B6392A4bD14d7F1d9AA6E89e1e3](https://optimistic.etherscan.io/address/0xe8E08113Dc0f2B6392A4bD14d7F1d9AA6E89e1e3#code)
 - Polygon: [0xeb37fc7F7781C4B6395b093359aaaFD285DaA6b9](https://polygonscan.com/address/0xeb37fc7F7781C4B6395b093359aaaFD285DaA6b9#code)
 - Rinkeby: [0x1aAF0d0305B8e5685bCA94F35409547fA4bCD548](https://rinkeby.etherscan.io/address/0x1aAF0d0305B8e5685bCA94F35409547fA4bCD548#code)
-- Goerli: [0xDDdFf70C77Cffcf97Fb91F7aC4aD0E12E8C14571](https://rinkeby.etherscan.io/address/0xDDdFf70C77Cffcf97Fb91F7aC4aD0E12E8C14571#code)
+- Goerli: [0xDDdFf70C77Cffcf97Fb91F7aC4aD0E12E8C14571](https://goerli.etherscan.io/address/0xDDdFf70C77Cffcf97Fb91F7aC4aD0E12E8C14571#code)
 
 ## Security
 

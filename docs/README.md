@@ -31,10 +31,12 @@ For formation assistance for standalone LLCs and questions on DAO legal setup an
 
 A running list of contracts deployed on Ethereum, Arbitrum, Polygon and Rinkeby (testnet) are catalogued [here](https://github.com/kalidao/kali-ui/blob/main/constants/addresses.js). The verified KaliDAO factory contracts are:
 
-- Ethereum: [0xA051591c52c1378bc4a34c57445D181deEF100f0](https://etherscan.io/address/0xa051591c52c1378bc4a34c57445d181deef100f0#code)
-- Arbitrum: [0x6fcc42233f909a46EB006A7bd6BfE9D94928e64a](https://arbiscan.io/address/0x6fcc42233f909a46eb006a7bd6bfe9d94928e64a#code)
-- Polygon: [0x3f15724d409444743613AdaFA4A4a4B49D9Ab2F9](https://polygonscan.com/address/0x3f15724d409444743613adafa4a4a4b49d9ab2f9#code)
-- Rinkeby: [0x58AC6a1Dd37b374Eb98FE751fc64502bB04Fb80f](https://rinkeby.etherscan.io/address/0x58ac6a1dd37b374eb98fe751fc64502bb04fb80f#code)
+- Ethereum: [0x8bD48C45d40724E8424C3aAa4097257A38A98024](https://etherscan.io/address/0x8bD48C45d40724E8424C3aAa4097257A38A98024#code)
+- Arbitrum: [0x045cbcBA76a7EcF82d0f6B5DCc0881B3C12E37d0](https://arbiscan.io/address/0x045cbcBA76a7EcF82d0f6B5DCc0881B3C12E37d0#code)
+- Optimism: [0xe8E08113Dc0f2B6392A4bD14d7F1d9AA6E89e1e3](https://arbiscan.io/address/0xe8E08113Dc0f2B6392A4bD14d7F1d9AA6E89e1e3#code)
+- Polygon: [0xeb37fc7F7781C4B6395b093359aaaFD285DaA6b9](https://polygonscan.com/address/0xeb37fc7F7781C4B6395b093359aaaFD285DaA6b9#code)
+- Rinkeby: [0x1aAF0d0305B8e5685bCA94F35409547fA4bCD548](https://rinkeby.etherscan.io/address/0x1aAF0d0305B8e5685bCA94F35409547fA4bCD548#code)
+- Goerli: [0xDDdFf70C77Cffcf97Fb91F7aC4aD0E12E8C14571](https://rinkeby.etherscan.io/address/0xDDdFf70C77Cffcf97Fb91F7aC4aD0E12E8C14571#code)
 
 ## Security
 

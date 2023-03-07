@@ -2,18 +2,12 @@
 
 LLCs, corporations, and partnerships are all different types of business organizations with different legal and tax obligations. Essentially all businesses pay four[ types](https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes) of tax obligations: Income Tax, Estimated Tax, Employment Taxes (which may be self-employment taxes) and Excise Taxes. Here's a quick rundown of the main business entities in the US, and the forms they have to file in the corporate level:
 
-
-
-1. **<span style="text-decoration:underline;">LLCs</span>**: LLCs (limited liability companies) are a type of business organization that combines the liability protection of a corporation with certain tax flexibilities. The IRS will treat an LLC as a corporation, partnership, or as part of the LLC's owner's tax return, depending on the LLC's [election](https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership) and the number of members. Regardless of this election, LLCs can be classified as: 
-    1. Single member LLCs: If the LLC only has one member, then members will default as self-employed having to file [Schedule C with their personal Form 1040](https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies),  unless the member files [Form 8832](https://www.irs.gov/forms-pubs/about-form-8832), whereby the LLC elects to be taxed as a corporation.
+1.  **<span style="text-decoration:underline;">LLCs</span>**: LLCs (limited liability companies) are a type of business organization that combines the liability protection of a corporation with certain tax flexibilities. The IRS will treat an LLC as a corporation, partnership, or as part of the LLC's owner's tax return, depending on the LLC's [election](https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership) and the number of members. Regardless of this election, LLCs can be classified as:
+    1. Single member LLCs: If the LLC only has one member, then members will default as self-employed having to file [Schedule C with their personal Form 1040](https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies), unless the member files [Form 8832](https://www.irs.gov/forms-pubs/about-form-8832), whereby the LLC elects to be taxed as a corporation.
     2. Multi-member LLCs: If the LLC has two or more members, then the LLC is taxed as a **partnership** by default, unless the LLC files [Form 8832](https://www.irs.gov/forms-pubs/about-form-8832), as previously mentioned
-2. **<span style="text-decoration:underline;">Partnerships</span>**: A partnership is a business or trade relationship formed by two or more people. Each person contributes money, property, labor, or skill, and shares in the company's profits and losses. Partnerships are treated as pass-through entities for tax purposes, which means that profits and losses of the partnership are passed through to the individual partners, who report their share of the partnership's income or loss on their personal tax returns. Generally, partnerships have to:
-    3. File [Form 1065](https://www.irs.gov/forms-pubs/about-form-1065) annually. Although partnerships will not pay taxes, and simply pass-through their results to the members, they still have to file with the IRS yearly.
-    4. Provide employees with [Form W-2](https://www.irs.gov/forms-pubs/about-form-w-2).
-    5. Provide partners with Schedule K-1 (Form 1065), or other Forms depending [on certain cases](https://www.irs.gov/forms-pubs/about-form-1065), such as Form B-1 for people or entities who own more than 50% of the partnership.
+2.  **<span style="text-decoration:underline;">Partnerships</span>**: A partnership is a business or trade relationship formed by two or more people. Each person contributes money, property, labor, or skill, and shares in the company's profits and losses. Partnerships are treated as pass-through entities for tax purposes, which means that profits and losses of the partnership are passed through to the individual partners, who report their share of the partnership's income or loss on their personal tax returns. Generally, partnerships have to: 3. File [Form 1065](https://www.irs.gov/forms-pubs/about-form-1065) annually. Although partnerships will not pay taxes, and simply pass-through their results to the members, they still have to file with the IRS yearly. 4. Provide employees with [Form W-2](https://www.irs.gov/forms-pubs/about-form-w-2). 5. Provide partners with Schedule K-1 (Form 1065), or other Forms depending [on certain cases](https://www.irs.gov/forms-pubs/about-form-1065), such as Form B-1 for people or entities who own more than 50% of the partnership.
 
         This chart summarizes other possible tax obligations for a Partnership:
-
 
 <table>
   <tr>
@@ -71,12 +65,7 @@ LLCs, corporations, and partnerships are all different types of business organiz
   </tr>
 </table>
 
-
-
-
-3. **<span style="text-decoration:underline;">Corporations</span>**: Corporations are legal entities that exist independently of their shareholders. Corporations are taxed separately, with profits taxed at the corporate level. Double taxation is possible with Corporations, so dividends received from the corporation are also taxed to shareholders. Generally, Corporations have to:
-    6. File [Form 1120](https://www.irs.gov/forms-pubs/about-form-1120) yearly.
-    7. Pay all applicable employment taxes. This chart from the IRS helps to summarize all tax obligations that may be applicable:
+3. **<span style="text-decoration:underline;">Corporations</span>**: Corporations are legal entities that exist independently of their shareholders. Corporations are taxed separately, with profits taxed at the corporate level. Double taxation is possible with Corporations, so dividends received from the corporation are also taxed to shareholders. Generally, Corporations have to: 6. File [Form 1120](https://www.irs.gov/forms-pubs/about-form-1120) yearly. 7. Pay all applicable employment taxes. This chart from the IRS helps to summarize all tax obligations that may be applicable:
 
 <table>
   <tr>
@@ -132,27 +121,23 @@ LLCs, corporations, and partnerships are all different types of business organiz
   </tr>
 </table>
 
-
 **<span style="text-decoration:underline;">S-Corp status</span>**
 
-An [S-Corporation](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations), also known as a S-Corp, is a type of business entity that is taxed as a pass-through entity in the United States regardless of the type of business entity it is. S-Corporations, in essence, help to avoid double taxation on corporate income. S-corporations are taxed at the entity level on certain built-in gains and passive income. 
+An [S-Corporation](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations), also known as a S-Corp, is a type of business entity that is taxed as a pass-through entity in the United States regardless of the type of business entity it is. S-Corporations, in essence, help to avoid double taxation on corporate income. S-corporations are taxed at the entity level on certain built-in gains and passive income.
 
-To be eligible for S-Corporation status, the corporation must meet the following criteria: 
+To be eligible for S-Corporation status, the corporation must meet the following criteria:
 
-
-
-* Be a domestic company. 
-* Have only permitted shareholders. 
-* Individuals, trusts, and estates may qualify. 
-* Partnerships, corporations, and non-resident alien shareholders are not permitted. 
-* Have a maximum of 100 shareholders. 
-* Have only one type of stock. 
-* It must not be an ineligible corporation (i.e. certain financial institutions, insurance companies, and domestic international sales corporations). 
+- Be a domestic company.
+- Have only permitted shareholders.
+- Individuals, trusts, and estates may qualify.
+- Partnerships, corporations, and non-resident alien shareholders are not permitted.
+- Have a maximum of 100 shareholders.
+- Have only one type of stock.
+- It must not be an ineligible corporation (i.e. certain financial institutions, insurance companies, and domestic international sales corporations).
 
 If the business entity complies with all the previous requirements, then it may file [Form 2553](https://www.irs.gov/forms-pubs/about-form-2553), (Election by a Small Business Corporation), which must be signed by all shareholders. Once the business has the status of an S-Corporation, then it will have to complete [Form 1120-S](https://www.irs.gov/forms-pubs/about-form-1120-s) yearly, along with all the other applicable tax forms. To learn more about the tax obligations of an S-Corp, visit the IRS [website](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations) on them.
 
 Here's a quick summary of the income tax obligations for the main US business entities:
-
 
 <table>
   <tr>
@@ -209,9 +194,7 @@ Form 1065  for multi-member LLCs.
   </tr>
 </table>
 
-
 Remember that all business entities may be liable for other types of taxes such as Estimated Tax, Employment Taxes, and Excise Taxes. Always contact a professional to help you file your business's taxes. Here's the average cost of tax preparation, according to the National Society of Accountants on their latest [report](https://higherlogicdownload.s3.amazonaws.com/NSACCT/725010a8-142f-4092-8b5d-077c2618c728/UploadedImages/Membership/IncomeandFeeSurvey/NSA2020-2021_IncomeandFees_FullStudy.pdf) on the Income and Fees of Accountants and Tax Preparers in Public Practice Survey 2019-2021:
-
 
 <table>
   <tr>

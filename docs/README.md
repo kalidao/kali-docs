@@ -5,15 +5,16 @@ Kali is an application to launch DAO smart contracts and form companies. It allo
 ## Features
 
 V1 includes the following features:
+
 - **tokenized votes** as ERC-20 assets, which can be transferable or non-transferable
 - **delegateable votes** to representatives
 - **customizable governance** settings, such as voting periods and approval thresholds
 - **quorum, supermajority** threshold settings, which can be assigned to proposal types
 - **gas-less metaTX support** for voting and token transfers
-- **extension support**, including fundraising by token sale or 'tribute', whitelisting, and 'ragequit' 
+- **extension support**, including fundraising by token sale or 'tribute', whitelisting, and 'ragequit'
 - **treasury support**, including ETH, ERC-20, NFT and ERC-1155
 
-More extensive discussion of the Kali DAO contracts can be found in the [repo](https://github.com/kalidao/kali-contracts/blob/main/README.md). 
+More extensive discussion of the Kali DAO contracts can be found in the [repo](https://github.com/kalidao/kali-contracts/blob/main/README.md).
 
 ## Legal Support
 
@@ -42,4 +43,8 @@ A running list of contracts deployed on Ethereum, Arbitrum, Polygon and Rinkeby 
 
 An audit on the core Kali contracts was conducted by BlockApex and can be reviewed [here](https://github.com/kalidao/kali-contracts/blob/main/audit/Final_Audit_KaliDAO.pdf). Unit tests in JS for the core contracts, including extensions, can be run [here](https://github.com/kalidao/kali-contracts/tree/main/test).
 
+## [Tax](./tax/README.md)
+
 ## [FAQ](./faq/README.md)
+
+## [Automation](./automation/README.md)
